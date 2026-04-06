@@ -1,0 +1,33 @@
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #555 !important;
+}
+
+
+h1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+.content-box {
+  background-color: #999; 
+  color: white;
+  height: 1000px;
+  padding: 20px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+}
+
+
+#nav-list {
+  background-color: #f8f8f8;
+  margin: 0;
+  text-align: center;
+}
+
+#nav-list li a {
+  border-bottom: 1px solid #ddd;
+}
