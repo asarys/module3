@@ -1,0 +1,38 @@
+/* Настройка бренда и навигации */
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5em;
+  color: #000 !important;
+}
+
+h1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+/* Серые блоки с контентом */
+.content-box {
+  background-color: #999; 
+  color: #000;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 1px solid #333;
+  min-height: 200px;
+}
+
+.content-box h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+/* Мобильное меню */
+#nav-list {
+  background-color: #f8f8f8;
+  text-align: center;
+}
+
+#nav-list li a {
+  border-bottom: 1px solid #ddd;
+}
